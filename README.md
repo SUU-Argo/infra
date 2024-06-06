@@ -55,7 +55,7 @@ argocd admin initial-password -n argocd
 ```
 6. Login
 ```bash
-argocd login localhost:8080 --username admin --password 9wzoFVXhpKiU2iz1
+argocd login localhost:8080 --username admin --password your_initial_password
 ```
 
 ### Argo Workflows setup
